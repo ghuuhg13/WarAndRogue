@@ -100,7 +100,6 @@ int main() {
             }
         }
         cout << endl;
-        cout << "test" << endl;
         for (; respl >= 100;) {
         start:
             cin >> xod;
@@ -780,7 +779,6 @@ int main() {
                 }
             }
             cout << endl;
-            cout << "test" << endl;
         }
         respl = youterr * 50;
         aixodit:
