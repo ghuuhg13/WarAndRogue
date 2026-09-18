@@ -847,8 +847,8 @@ int main() {
         if (aiterr == 0) {
             system("cls");
             cout << "    __" << endl;
-            cout << "/ |  | |  |	   / | ||" << endl;
-            cout << "/  |__| |__|    ^/  | ||" << endl;
+            cout << "\/ |  | |  |	\   / | ||" << endl;
+            cout << "/  |__| |__|    \^/  | ||" << endl;
         }
         else
         {
@@ -857,7 +857,7 @@ int main() {
         if (youterr == 0) {
             system("cls");
             cout << "    __             __   _   _" << endl;
-            cout << "/ |  | |  |	|  |  | |_  |_" << endl;
+            cout << "\/ |  | |  |	|  |  | |_  |_" << endl;
             cout << "/  |__| |__|   |_ |__|  _| |_" << endl;
         }
         else
